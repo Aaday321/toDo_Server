@@ -27,7 +27,7 @@ app.use(bodyparser.urlencoded({extended: true}))
 app.use(bodyparser.json())
 
 //CORS setup
-app.use(cors())
+//app.use(cors())
 
 
 
